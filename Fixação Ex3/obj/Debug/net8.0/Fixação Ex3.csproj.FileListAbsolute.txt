@@ -1,0 +1,15 @@
+L:\C#\Fixação Ex3\bin\Debug\net8.0\Fixação Ex3.exe
+L:\C#\Fixação Ex3\bin\Debug\net8.0\Fixação Ex3.deps.json
+L:\C#\Fixação Ex3\bin\Debug\net8.0\Fixação Ex3.runtimeconfig.json
+L:\C#\Fixação Ex3\bin\Debug\net8.0\Fixação Ex3.dll
+L:\C#\Fixação Ex3\bin\Debug\net8.0\Fixação Ex3.pdb
+L:\C#\Fixação Ex3\obj\Debug\net8.0\Fixação Ex3.GeneratedMSBuildEditorConfig.editorconfig
+L:\C#\Fixação Ex3\obj\Debug\net8.0\Fixação Ex3.AssemblyInfoInputs.cache
+L:\C#\Fixação Ex3\obj\Debug\net8.0\Fixação Ex3.AssemblyInfo.cs
+L:\C#\Fixação Ex3\obj\Debug\net8.0\Fixação Ex3.csproj.CoreCompileInputs.cache
+L:\C#\Fixação Ex3\obj\Debug\net8.0\Fixação Ex3.sourcelink.json
+L:\C#\Fixação Ex3\obj\Debug\net8.0\Fixação Ex3.dll
+L:\C#\Fixação Ex3\obj\Debug\net8.0\refint\Fixação Ex3.dll
+L:\C#\Fixação Ex3\obj\Debug\net8.0\Fixação Ex3.pdb
+L:\C#\Fixação Ex3\obj\Debug\net8.0\Fixação Ex3.genruntimeconfig.cache
+L:\C#\Fixação Ex3\obj\Debug\net8.0\ref\Fixação Ex3.dll
